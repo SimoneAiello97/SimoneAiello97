@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style="widht:100%">
   <img src="https://github.com/SimoneAiello97/SimoneAiello97/assets/126870680/7681acf4-9e26-49c9-9de3-67379d6dd5da" />
 </p>
 ### ABOUT ME
