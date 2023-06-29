@@ -1,14 +1,12 @@
+![Systems and technology programming company logo](https://github.com/SimoneAiello97/SimoneAiello97/assets/126870680/7681acf4-9e26-49c9-9de3-67379d6dd5da)
 
-<p align="center" style="widht:100%">
-  <img src="https://github.com/SimoneAiello97/SimoneAiello97/assets/126870680/7681acf4-9e26-49c9-9de3-67379d6dd5da" />
-</p>
+
 ### ABOUT ME
 I am a junior web developer with a passion for creating websites. I have acquired the fundamental knowledge required to kick-start my career in web development. I am enthusiastic about exploring new technologies and frameworks to enhance my skills and stay up-to-date with the latest industry trends. I am eager to collaborate with experienced professionals and contribute to innovative web projects. With a strong foundation in HTML, CSS, and JavaScript, I am confident in my ability to design and develop responsive and user-friendly websites. I am dedicated to continuously learning and improving my coding abilities to deliver high-quality solutions.
 
 <!--
 **SimoneAiello97/SimoneAiello97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Systems and technology programming company logo](https://github.com/SimoneAiello97/SimoneAiello97/assets/126870680/7681acf4-9e26-49c9-9de3-67379d6dd5da)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
