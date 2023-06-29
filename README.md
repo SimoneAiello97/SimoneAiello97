@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a junior web developer with a passion for creating websites. I have acquired the fundamental knowledge required to kick-start my career in web development. I am enthusiastic about exploring new technologies and frameworks to enhance my skills and stay up-to-date with the latest industry trends. I am eager to collaborate with experienced professionals and contribute to innovative web projects. With a strong foundation in HTML, CSS, and JavaScript, I am confident in my ability to design and develop responsive and user-friendly websites. I am dedicated to continuously learning and improving my coding abilities to deliver high-quality solutions.
 
 <!--
 **SimoneAiello97/SimoneAiello97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
