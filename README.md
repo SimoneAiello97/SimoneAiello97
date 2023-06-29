@@ -2,19 +2,19 @@
 
 
 ### ABOUT ME
-I am a **_junior_ web developer** with a passion for creating websites. <br>
-I have acquired the fundamental knowledge required to kick-start my career in web development.  <br>
-I am enthusiastic about exploring new technologies and frameworks to enhance my skills and stay up-to-date with the latest industry trends. I am eager to collaborate with experienced professionals and contribute to innovative web projects.  <br>
-With a strong foundation in HTML, CSS, Java and JavaScript, I am confident in my ability to design and develop responsive and user-friendly websites.  <br>
-I am dedicated to continuously learning and improving my coding abilities to deliver high-quality solutions.
+I am a **_junior_ web developer** with a passion for creating websites. 💻 <br><br>
+I have acquired the fundamental knowledge required to kick-start my career in web development.  <br><br>
+Passionate technology enthusiast, driven by the ever-evolving world of innovation. Embracing the transformative power of technology to shape a better future. 🔭🌎 <br><br>
+With a strong foundation in _HTML_, _CSS_, _Java_, _JavaScript_, _Typescript_, _Angular_ and other **skills** I am confident in my ability to design and develop responsive and user-friendly websites. 🌱🔧 <br><br>
+I am dedicated to continuously learning and improving my coding abilities to deliver high-quality solutions. 🗿🚀
 
 <!--
 **SimoneAiello97/SimoneAiello97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently working on ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
