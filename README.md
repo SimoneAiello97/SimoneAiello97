@@ -5,7 +5,7 @@
 I am a **_junior_ web developer** with a passion for creating websites. 💻 <br><br>
 I have acquired the fundamental knowledge required to kick-start my career in web development.  <br><br>
 Passionate technology enthusiast, driven by the ever-evolving world of innovation. Embracing the transformative power of technology to shape a better future. 🔭🌎 <br><br>
-With a strong foundation in _HTML_, _CSS_, _Java_, _JavaScript_, _Typescript_, _Angular_ and other **skills** I am confident in my ability to design and develop responsive and user-friendly websites. 🌱🔧 <br><br>
+With a strong foundation in _HTML_, _CSS_, _Java_, _SpringBoot_, _JavaScript_, _Typescript_, _Angular_, _React_ and other **skills** I am confident in my ability to design and develop responsive and user-friendly websites. 🌱🔧 <br><br>
 I am dedicated to continuously learning and improving my coding abilities to deliver high-quality solutions. 🗿🚀
 
 <!--
