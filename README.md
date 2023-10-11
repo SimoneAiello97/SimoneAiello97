@@ -8,7 +8,7 @@ Passionate technology enthusiast, driven by the ever-evolving world of innovatio
 With a strong foundation in _HTML_, _CSS_, _Java_, _SpringBoot_, _JavaScript_, _Typescript_, _Angular_, _React_ and other **skills** I am confident in my ability to design and develop responsive and user-friendly websites. 🌱🔧 <br><br>
 I am dedicated to continuously learning and improving my coding abilities to deliver high-quality solutions. 🗿🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneAiello97)](https://github.com/SimoneAiello97/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneAiello97&show_icons=true)
 
 <!--
 **SimoneAiello97/SimoneAiello97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
