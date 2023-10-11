@@ -8,5 +8,5 @@ Passionate technology enthusiast, driven by the ever-evolving world of innovatio
 With a strong foundation in _HTML_, _CSS_, _Java_, _SpringBoot_, _JavaScript_, _Typescript_, _Angular_, _React_ and other **skills** I am confident in my ability to design and develop responsive and user-friendly websites. 🌱🔧 <br><br>
 I am dedicated to continuously learning and improving my coding abilities to deliver high-quality solutions. 🗿🚀
 
-![](https://komarev.com/ghpvc/?username=SimoneAiello97)
+
 
